@@ -6,6 +6,9 @@ All design credits go to Zentry. This project is created purely for educational 
 
 I developed a visually captivating Zentry-inspired website, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. The site offers a luxurious and modern feel, focusing on engaging UX/UI design and fluid responsiveness.
 
+# WEB LIVE 
+https://synfiniti.github.io/zentry-inspiration/
+
 # ⚙️ Tech Stack
 
 GSAP
